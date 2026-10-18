@@ -1,0 +1,8 @@
+numpy
+Pillow
+av
+scipy
+scikit-learn
+joblib
+torch
+torchvision
