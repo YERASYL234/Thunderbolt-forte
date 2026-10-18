@@ -1,0 +1,45 @@
+{
+  "mapping": {
+    "cash_on_table": [
+      "FB-CASH-002"
+    ],
+    "cash_bag_left": [],
+    "counting_not_observed": [
+      "FB-CASH-003",
+      "FB-CASH-009"
+    ],
+    "customer_check_not_observed": [
+      "FB-CASH-013"
+    ],
+    "next_customer_received": [],
+    "customer_left_during_operation": [
+      "FB-CASH-004",
+      "FB-CASH-010"
+    ],
+    "key_taken_away": [
+      "FB-CASH-014"
+    ],
+    "key_left_in_lock": [
+      "FB-CASH-014"
+    ],
+    "person_enters_cash_area": [
+      "FB-CASH-015"
+    ],
+    "door_left_open": [],
+    "personal_items_on_table": [
+      "FB-CASH-001"
+    ],
+    "cash_retained_unclear": [],
+    "cash_taken_from_safe": [],
+    "immediate_cash_acceptance": [],
+    "cash_placement": [
+      "FB-CASH-002"
+    ],
+    "key_handling": [
+      "FB-CASH-014"
+    ],
+    "customer_procedure": [],
+    "suspicious_action_untyped": []
+  },
+  "policy": "Candidate references only. Preconditions and exceptions not verified; broad model groups do not establish a specific rule violation."
+}

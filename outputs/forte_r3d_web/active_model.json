@@ -1,0 +1,6 @@
+{
+  "directory": "forte_qwen_plus30",
+  "status": "experimental",
+  "selection": "Expanded 22-candidate train30 selection, fixed before consulting the new test result",
+  "limitation": "Test accuracy remains 50%; this is not a verified high-accuracy model. Previous model is preserved in forte_transfer30."
+}
